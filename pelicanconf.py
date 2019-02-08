@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Danger Doggo'
 SITENAME = 'My Cool Site'
 SITEURL = ''
+THEME = 'templates/mytheme'
 
 PATH = 'content'
 
@@ -33,3 +34,4 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+

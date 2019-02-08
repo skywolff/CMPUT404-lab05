@@ -1,0 +1,15 @@
+/*html, body {*/
+  /*margin: 0;*/
+  /*border: 0;*/
+  /*font-size: 100%;*/
+  /*background-color: #000000;*/
+  /*color: #ffffff;*/
+/*}*/
+@charset "UTF-8";
+
+body{
+  width: 100%;
+  margin: 0;
+  background-image:url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.QYZcg4j0iIjXG4OTxBxuNAHaEo%26pid%3D15.1&f=1")
+}
+
